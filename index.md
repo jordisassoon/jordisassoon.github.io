@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Jordan Sassoon
-
 I'm a Performance Engineer at Aleph Alpha working on high-performance infrastructure for large language models.
 
 My work focuses on optimizing training and inference of transformer-based systems through massively parallel computation, custom CUDA kernels, and efficient parallelization strategies.
@@ -28,7 +26,7 @@ Previously, I worked on efficient deep learning and computer vision systems, inc
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/jordan-sassoon/)
-- [GitHub](https://github.com/jordansassoon)
+- [GitHub](https://github.com/jordisassoon)
 - [Google Scholar](https://scholar.google.com/citations?user=o0_U5WcAAAAJ)
 
 ## Contact
